@@ -1,0 +1,3 @@
+C:\Users\ktellis\Projects\cards\client\obj\Debug\NodejsApp1.njsprojAssemblyReference.cache
+C:\Users\ktellis\Projects\cards\client\obj\Debug\NodejsApp1.njsproj.CoreCompileInputs.cache
+C:\Users\ktellis\Projects\cards\client\bin\Microsoft.NodejsTools.WebRole.dll

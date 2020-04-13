@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\card",
+    "\\card\\cards",
+    "\\card\\game",
+    "\\card\\gamerules",
+    "\\card\\net",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\helpers",
+    "\\server",
+    "\\server\\obj"
+  ],
+  "SelectedNode": "\\card\\gamerules\\exactrules.js",
+  "PreviewInSolutionExplorer": false
+}
